@@ -1,6 +1,5 @@
 
 ------------------------------------------------------------------
-
 source $HOME/.cargo/env
 
 rustup install stable
